@@ -7,7 +7,7 @@ I'm a passionate developer focused on mastering web development and software eng
 - 🔭 I’m currently working on a medical record management system called MediKeep.
 - 🌱 I’m currently learning JavaScript, TypeScript, React, backend development with MongoDB and Express, C++, and Data Structures and Algorithms (DSA).
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
-- 📫 How to reach me: [your-email@example.com]
+- 📫 How to reach me: [avhixorin@gmail.com]
 - 💬 Ask me about web development, TypeScript, React, and software engineering.
 - ⚡ Fun fact: I love coding challenges and exploring new technologies.
 
