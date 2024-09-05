@@ -30,7 +30,7 @@ A medical record management system where users can log in or create an account t
 ### 🌤️ Weather App
 A responsive weather application that provides current weather information for any location.
 
-- **Demo**: [Live Demo](https://weather-app-ten-mu-52.vercel.app/)
+- **Demo**: [Live Demo](https://weather-app-blond-omega-39.vercel.app/)
 - **GitHub**: [Weather App Repository](https://github.com/avhixorin/WeatherApp/tree/c39ff11667bd49c4a2de2d4e8f0a25efc9d1cbdf/weatherApp%20(Responsive))
 
 ### 🍲 Annapurna India
