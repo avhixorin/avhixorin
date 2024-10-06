@@ -18,15 +18,15 @@ I'm a passionate developer focused on mastering web development and software eng
 ### 🏥 MediKeep
 A medical record management system where users can log in or create an account to manage their medical history or present health.
 
-- **Frontend**: React, TypeScript, TailWind
-- **Backend**: Node.js, Express, MongoDB
-- **Deployment**: Frontend on Vercel, Backend on Heroku
+- **Frontend**: React, TypeScript, TailWind CSS, ReduxToolkit
+- **Backend**: Node.js, Express, MongoDB, Socket.io
+- **Deployment**: Frontend on Vercel, Backend on Render
 - **Features**:
   - Separate interfaces for patients and doctors.
   - Patients can manage their medical history.
   - Doctors can track patient records and prescriptions.
   - Users can upload medical reports with restricted upload size.
-
+- **Demo**: [Live Demo](https://avhixorin.me)
 ### 🌤️ Weather App
 A responsive weather application that provides current weather information for any location.
 
