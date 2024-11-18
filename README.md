@@ -53,7 +53,7 @@ A real-time chat app that lets you chat with friends and groups instantly! 🗨�
   - Private and group chats to keep you connected. 👫👬
   - User authentication and profile management. 👤
 - **Demo**: [Live Demo](https://chatapp.avhixorin.me)
-- **GitHub**: [Chat Application Repository](https://github.com/avhixorin/ChatApp)
+- **GitHub**: [Chat Application Repository](https://github.com/avhixorin/Real-time-chat-app)
 
 
 ### 🌤️ Weather App
