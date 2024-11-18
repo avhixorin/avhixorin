@@ -29,7 +29,7 @@ A medical record management system designed to keep track of your health history
 - **Demo**: [Live Demo](https://avhixorin.me)
 - **GitHub**: [MediKeep Repository](https://github.com/avhixorin/WordChamp)
 
-### <img src="https://user-images.githubusercontent.com/74038190/212896001-c2105e17-255f-4816-b348-8cfddfe2a915.gif" width="30"> **WordChamp**
+### 📚 **WordChamp**
 A fun and interactive platform to learn new languages through engaging games and quizzes! 🎮🌍
 
 - **Frontend**: React, TypeScript, TailWind CSS
