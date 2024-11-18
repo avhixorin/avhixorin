@@ -27,7 +27,7 @@ A medical record management system designed to keep track of your health history
   - Doctors can track patient records and prescriptions. 💊
   - Upload medical reports with restricted size. 📄
 - **Demo**: [Live Demo](https://avhixorin.me)
-- **GitHub**: [MediKeep Repository](https://github.com/avhixorin/WordChamp)
+- **GitHub**: [MediKeep Repository](https://github.com/avhixorin/Medikeep-frontend)
 
 ### 📚 **WordChamp**
 A fun and interactive platform to learn new languages through engaging games and quizzes! 🎮🌍
