@@ -2,7 +2,7 @@
 
 I'm a passionate developer focused on mastering web development and software engineering. Welcome to my GitHub profile!
 
-## 💫 About Me:
+## <img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="40" /> About Me:
 - 🔭 I’m currently working on a medical record management system called **MediKeep**.
 - 🌱 I’m currently learning JavaScript, TypeScript, React, backend development with MongoDB and Express, C++, and Data Structures and Algorithms (DSA).
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
