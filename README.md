@@ -84,5 +84,5 @@ A website made with the initiative of reducing food wastage and solving hunger i
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=avhixorin&icon=7&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=avhixorin&label=Profile%20Views&color=6&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
