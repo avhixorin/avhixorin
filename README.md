@@ -1,4 +1,4 @@
-# Hi there, I'm Avhixorin (https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)
+# Hi there, I'm Avhixorin <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 
 I'm a passionate developer focused on mastering web development and software engineering. Welcome to my GitHub profile!
 
