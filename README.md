@@ -39,7 +39,7 @@ A fun and interactive platform to learn new languages through engaging games and
   - Gamified learning experience to make language fun. 🕹️
   - Progress tracking and leaderboards to keep you motivated. 🏆
   - Multi-language support for global learners. 🌐
-- **Demo**: [Live Demo](https://wordchamp.avhixorin.me)
+- **Demo**: [Live Demo](https://word-champ.vercel.app)
 - **GitHub**: [WordChamp Repository](https://github.com/avhixorin/WordChamp)
 
 ### 💬 **Chat Application**
