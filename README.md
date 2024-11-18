@@ -15,7 +15,7 @@ I'm a passionate developer focused on mastering web development and software eng
 
 ## 🚀 **Projects** 💡
 
-### <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" alt="Health Worker" width="60" /> **MediKeep**
+### <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" alt="Health Worker" width="50" /> **MediKeep**
 A medical record management system designed to keep track of your health history and present condition. Perfect for both patients and doctors! 🩺💻
 
 - **Frontend**: React, TypeScript, TailWind CSS, ReduxToolkit
