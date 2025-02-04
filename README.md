@@ -26,7 +26,7 @@ A medical record management system designed to keep track of your health history
   - Patients can manage their medical history. 📝
   - Doctors can track patient records and prescriptions. 💊
   - Upload medical reports with restricted size. 📄
-- **Demo**: [Live Demo](https://avhixorin.me)
+- **Demo**: [Live Demo](https://medikeep.avhixorin.me)
 - **GitHub**: [MediKeep Repository](https://github.com/avhixorin/Medikeep-frontend)
 
 ### 📚 **WordChamp**
